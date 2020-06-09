@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://qinlingyungao.github.io
+url: https://qinlingyungao.github.io/panacea/
 date_format: "ordinal"
-title: 秦岭云高
-subtitle: "我的存稿箱"
-description: "写作"
+title: Panacea
+subtitle: "solitude"
+description: "solitude"
 keywords: 
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -22,7 +22,7 @@ cdn:
 components:
     # 分享
     share:
-        enabled: true
+        enabled: false
     # 不蒜子访问统计
     busuanzi:
         enabled: true
